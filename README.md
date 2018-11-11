@@ -4,6 +4,8 @@
 
 项目技术：使用 html,css,h5,c3 实现前端页面，使用 vue 框架进行开发实现页面交互，使用webpack 包
 
+运行方法：1. $ npm install    2.$ npm run serve
+
 页面截图：
 
 ![Image text](http://img.hb.aicdn.com/d1aa877d940900ebb703cd0ff919ba9fa52176d8721f-MYKRrL_fw658)
