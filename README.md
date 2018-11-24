@@ -4,6 +4,8 @@
 
 项目技术：使用 html,css,h5,c3 实现前端页面，使用 vue 框架进行开发实现页面交互，使用webpack 包
 
+详情介绍：http://lizhenting.xyz/project/app/app.html
+
 运行方法：
 
 1.$ npm install    
